@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">672017081</string>
+    <string name="Username">Username</string>
+    <string name="FullName">Full Name</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmPassword">Retype Password</string>
+    <string name="RegisterForm">Register Form</string>
+    <string name="Register">Register Now</string>
+    <string name="Login">Login</string>
+    <string name="LoginForm">Login Form</string>
+    <string name="Home">Home</string>
+    <string name="welcome">welcome</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_home2">home2</string>
+
+
+</resources>
